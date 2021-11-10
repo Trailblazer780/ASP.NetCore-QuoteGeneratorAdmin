@@ -1,0 +1,26 @@
+﻿body {
+  margin-top: 30px;
+}
+#addHeader {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+#deleteHeader {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+#btnDelete {
+  padding-top: 10px;
+  padding-left: 5px;
+}
+
+#feedbackSubmit {
+  padding-left: 5px;
+}
+
+/* option{
+  max-width: 550px;
+} */
+
+

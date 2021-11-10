@@ -1,0 +1,90 @@
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/ref/QuoteGeneratorAPI.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/bin/Debug/net5.0/QuoteGeneratorAPI.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/staticwebassets/QuoteGeneratorAPI.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/staticwebassets/QuoteGeneratorAPI.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/scopedcss/bundle/QuoteGeneratorAPI.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/Razor/Views/QuoteAdmin/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/ref/QuoteGeneratorAPI.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.genruntimeconfig.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/_projects/Web Application Project II/quoteGeneratorAPI_Boilerplate/obj/Debug/net5.0/QuoteGeneratorAPI.csproj.CopyComplete
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\appsettings.Development.json
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\appsettings.json
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.exe
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.deps.json
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.runtimeconfig.json
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.runtimeconfig.dev.json
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\ref\QuoteGeneratorAPI.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.pdb
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.Views.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\QuoteGeneratorAPI.Views.pdb
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.csproj.AssemblyReference.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.AssemblyInfoInputs.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.AssemblyInfo.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.csproj.CoreCompileInputs.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.RazorAssemblyInfo.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.RazorAssemblyInfo.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\staticwebassets\QuoteGeneratorAPI.StaticWebAssets.Manifest.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\staticwebassets\QuoteGeneratorAPI.StaticWebAssets.xml
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\scopedcss\bundle\QuoteGeneratorAPI.styles.css
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.TagHelpers.input.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.TagHelpers.output.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.RazorCoreGenerate.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\Razor\Views\QuoteAdmin\Index.cshtml.g.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.RazorTargetAssemblyInfo.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.RazorTargetAssemblyInfo.cs
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.Views.pdb
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\ref\QuoteGeneratorAPI.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.pdb
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.genruntimeconfig.cache
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\obj\Debug\net5.0\QuoteGeneratorAPI.csproj.CopyComplete
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\MySql.Data.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\Zstandard.Net.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\Renci.SshNet.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Y2S1\INET 2005\Projects\Project 2\QuoteGenerator\bin\Debug\net5.0\Newtonsoft.Json.dll
