@@ -37,19 +37,19 @@
         
         <div class="form-row" style="padding-left: 5px;">
             <button type="submit" class="btn btn-info" name="submit">Submit</button>
-            <span class="text-danger">@TempData["feedback"]</span>
+            <span id="feedbackData" class="text-danger">@TempData["feedback"]</span>
             <span class="text-success">@TempData["success"]</span>
         </div>
     </form>
 
     <h3 id="deleteHeader" class="text-info">Delete Quote from Quote Generator</h3>
-
     <form asp-controller="QuoteAdmin" asp-action="DeleteQuote">
         <div id="quotesContainer">
             <select id="lstQuotes" class="btn btn-info" asp-for="@Model.QuoteID" asp-items="@Model.QuotesList" style="max-width: 550px !important;"></select>
         </div>
         <div id="btnDelete" class="form-row">
             <button type="submit" class="btn btn-info">Delete</button>
+            <span id="deletedData" class="text-danger">@TempData["deleted"]</span>
         </div>
     </form>
 

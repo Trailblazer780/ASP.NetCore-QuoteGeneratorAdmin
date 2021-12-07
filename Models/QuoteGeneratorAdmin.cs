@@ -22,6 +22,7 @@ namespace QuoteGeneratorAPI.Models {
         private List<Quote> _randomQuotes;
         private List<Quote> _quotesToPick;
         private string _toDelete;
+        // Initilization
         public QuoteGeneratorAdmin(){
             dbConnection = new MySqlConnection(Connection.CONNECTION_STRING);
             dbCommand = new MySqlCommand("", dbConnection); 
@@ -67,17 +68,23 @@ namespace QuoteGeneratorAPI.Models {
         public string image {get; set;}
 
         // ------------------------------------------------------- Public methods
+        // setup the web app
         public void setupMe() {
             getQuotesList();
         }
+        // setup the jsop 
         public void setupMeJson() {
             populateQuotes();
         }
+        public int quoteNumbers() {
+            return _quotes.Count;
+        }
 
+        // delete the image file
         public void deleteImage(IWebHostEnvironment env, string filename){
             File.Delete(env.WebRootPath + "/" + filename);
         }
-
+        // hit web api and get random quotes
         public object getRandomQuotes(int quoteNum){
             // Initialize Quotes to pick from
             _quotesToPick = _quotes;
@@ -108,6 +115,7 @@ namespace QuoteGeneratorAPI.Models {
         }
 
         // ------------------------------------------------------- Private methods
+        // get the quotes to populate the dropdown list
         private void getQuotesList(){
             try {
                 dbConnection.Open();
@@ -133,7 +141,7 @@ namespace QuoteGeneratorAPI.Models {
                 dbConnection.Close();
             }
         }
-
+        // populate the quotes    
         private void populateQuotes(){
             try {
                 dbConnection.Open();

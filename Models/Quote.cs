@@ -26,7 +26,7 @@ namespace QuoteGeneratorAPI.Models {
 
 
         // ------------------------------------------------------- Public methods
-
+        // create a quote and put it in the database
         public int create() {
             try {
                 dbConnection = new MySqlConnection(Connection.CONNECTION_STRING);
@@ -53,7 +53,7 @@ namespace QuoteGeneratorAPI.Models {
             return id;
         } 
 
-
+        // delete a quote from the database
         public bool Delete() {
             if(id == 0) {
                 return false;
@@ -79,6 +79,7 @@ namespace QuoteGeneratorAPI.Models {
             }
         }
 
+        // read image name from database to determine if image exists
         public string readImageName(int id) {
             try {
                 dbConnection = new MySqlConnection(Connection.CONNECTION_STRING);
@@ -100,6 +101,7 @@ namespace QuoteGeneratorAPI.Models {
 
 
         // ------------------------------------------------------- Private methods
+        // default values
         private void populateDefault() {
             id = 0;
             author = "";
