@@ -1,13 +1,19 @@
-# QuoteGeneratorAPI Boilerplate for Project II (INET2005 Web App Prog I) #
+# INET 2005 (Web Application Programming I) Project 2
+## Quote Generator Admin
 
-To quickly get you coding, this boilerplate project folder is the starting point for Project II.
+This program is written in C# and is built to adminstrate a web application that generates quotes. From this app
+you are able to add new quotes with an image for the quote, and you are able to delete quotes which will also
+remove the image file from the server.
 
-## Available Scripts
+How to use: 
 
-In the project directory, you run:
+You must have docker installed on your computer to use this web application
 
-### `docker compose build`
-### `docker compose up`
-### `dotnet watch run`
+1. Open the project folder in VSCode.
+2. In the terminal run the command `docker compose up --build`
+3. Open a second terminal and run the command `dotnet watch run`
+4. Open a web browser and hit `https://localhost:5001`
 
-To build and run the web app
+Below is a screenshot of the web application in use:
+
+![alt text](https://github.com/Trailblazer780/QuoteGenerator/blob/master/Images/Example1.PNG)
